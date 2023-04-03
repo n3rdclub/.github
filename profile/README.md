@@ -2,7 +2,6 @@
 
 Created by youngchief, loved by everyone. (hopefully)
 
-## About
 You can learn nerdy topics like coding with fun & effective workshops!
 
 The mission is to teach people of all ages the magic of coding, and other "nerdy" topics.
